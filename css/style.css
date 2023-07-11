@@ -25,3 +25,9 @@ justify-content: space-around;
     display: flex;
 
 }
+#videolink{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
