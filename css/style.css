@@ -20,6 +20,17 @@ justify-content: space-around;
     background-color: rgb(151, 89, 209);
     padding: 20px;
 }
+h3{
+    text-align: center;
+}
+h5{
+    text-align: center;
+    
+}
+p{
+    text-align: justify;
+    color: blueviolet;
+}
 #gemmoimg{
     width: 20%;
 }
