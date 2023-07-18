@@ -6,7 +6,8 @@ margin-bottom: 10px;
 background-color: black;
 } */
 body{
-    background-image: url(../images/);
+    background-color: black;
+    background-image: url(../images/watercolor.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
 }
