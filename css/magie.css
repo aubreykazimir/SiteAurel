@@ -1,3 +1,24 @@
-#entete{
-    background-color: black;
+/* #entete{
+    display: flex;
+justify-content: center;
+align-items: center;
+margin-bottom: 10px;
+background-color: black;
+} */
+body{
+    background-image: url(../images/);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h3{
+    text-align: center;}
+p{
+    margin: 50px;
+    padding: 10px;
+    background-color: rgb(79, 33, 122);
+    text-align: justify;
+    border-radius: 10px;
+}
+#exp{
+    color: white;
 }

@@ -1,12 +1,13 @@
 body{
     background-color: rgb(217, 203, 230);
+    width: 100%;
 }
-#entete{
+/* #entete{
     display: flex;
 justify-content: center;
 align-items: center;
 margin-bottom: 10px;
-}
+} */
 
 #title1 {
     text-align: center;
