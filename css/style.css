@@ -16,7 +16,7 @@ margin-bottom: 10px;
 }
 .Img {
     display: flex;
-justify-content: space-around;
+    justify-content: center;
 }
 #tete1{
     background-color: rgb(151, 89, 209);
